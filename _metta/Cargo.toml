@@ -1,0 +1,8 @@
+[package]
+name = "_metta"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hyperon = { git = "https://github.com/trueagi-io/hyperon.git", branch = "master" }
+
